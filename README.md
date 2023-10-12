@@ -6,11 +6,11 @@ Algorithms listed below.
 
 The repository is organized into folders for each topic:
 
-- [MLPs](MLP/):  Search and Optimization
-- [CNNs](CNN/): KNN and Metric Learning
-- [RCNNs](RCNN/): Decision Trees
-- [RNNs](RNN/):  Neural Networks
-- [Transformers](Transformer/):  Unsupervised Learning and Clustering
-- [GANs](GAN/):  Reinforcement Learning
+- [Optimization](Optimization/):  Search and Optimization
+- [KNN](KNN/): KNN and Metric Learning
+- [Decision Trees](Decision-Trees/): Decision Trees
+- [Neural-Networks](Neural-Networks/):  Neural Networks
+- [Clustering](Clustering/):  Unsupervised Learning and Clustering
+- [RL](RL/):  Reinforcement Learning
 
 

@@ -10,6 +10,6 @@ The repository is organized into folders for each topic:
 - [Decision Trees](Decision-Trees/): Decision Trees
 - [Neural-Networks](Neural-Networks/):  Neural Networks
 - [Clustering](Clustering/):  Unsupervised Learning and Clustering
-- [RL](Reinforcement-Learning/):  Reinforcement Learning
+- [RL](Reinforcement Learning/):  Reinforcement Learning
 
 
